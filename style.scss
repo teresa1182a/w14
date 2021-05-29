@@ -192,11 +192,12 @@ ul {
 
   .content{
     width: 100%;
-    padding: 2rem 0 0 2rem;
+    
     align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    padding: 5rem;
     
     h2{
       font-size: 1.5rem;
@@ -376,8 +377,6 @@ ul {
 
 .xbox{
  .content{
-  width: 50%;
-  padding: 2rem 0 0 2rem;
 
   p{
     display: none;

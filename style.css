@@ -215,7 +215,6 @@ ul {
 
 .xbox .content {
   width: 100%;
-  padding: 2rem 0 0 2rem;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -229,6 +228,7 @@ ul {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
+  padding: 5rem;
 }
 
 .xbox .content h2 {
@@ -417,10 +417,6 @@ ul {
         grid-template-columns: 1fr 1fr;
     -ms-grid-rows: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-  }
-  .xbox .content {
-    width: 50%;
-    padding: 2rem 0 0 2rem;
   }
   .xbox .content p {
     display: none;
